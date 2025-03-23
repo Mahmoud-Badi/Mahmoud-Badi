@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahmoud-Badi
 - 🌍 I'm based in Houston, Texas
-- 👀 I’m interested in Algorithms and Data Structures
-- 🧠 I’m currently learning C++
+- 👀 I’m interested in building useful and interesting Applications
+- 🧠 I’m currently learning Web Development 
 - 📫 You can contact me at official.mahmoud.badi@gmail.com
 
 <!---
