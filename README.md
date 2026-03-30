@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  CS student at UH. I build things for the web.
+  CS student at UH. I like building software with modern tools that solves real problems.
 </p>
 
 <p align="center">
