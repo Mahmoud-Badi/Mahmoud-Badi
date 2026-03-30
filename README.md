@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  CS student at UH who likes shipping real projects. I mostly work with web tech but I'll pick up whatever gets the job done.
+  CS student at UH. I build things for the web.
 </p>
 
 <p align="center">
