@@ -1,16 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mahmoud+%F0%9F%91%8B;Full-Stack+Developer;CS+Student+%40+University+of+Houston;Building+useful+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mahmoud+%F0%9F%91%8B;Full-Stack+Developer;CS+Student+%40+University+of+Houston;Code.+Ship.+Repeat." alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  Passionate about building clean, scalable applications — from real-time dashboards to full-stack web apps.
+  CS student at UH who likes shipping real projects. I mostly work with web tech but I'll pick up whatever gets the job done.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahmoud-Badi&style=flat-square&color=58A6FF" alt="Profile views" />
 </p>
 
----
 
 ### Tech Stack
 
@@ -38,9 +37,11 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
 
 ### GitHub Stats
 
@@ -53,7 +54,6 @@
   <img src="https://streak-stats.demolab.com?user=Mahmoud-Badi&theme=github-dark&hide_border=true" />
 </p>
 
----
 
 ### Connect
 
